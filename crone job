@@ -1,0 +1,8 @@
+#!/bin/bash
+DDAY="15-Aug-2007"
+echo "$DDAY"
+printf "$DDAY\n"
+
+
+$less /etc/passwd
+
